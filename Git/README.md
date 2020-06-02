@@ -19,6 +19,14 @@ Add the remote path `git add remote https://github.com/GITHUB_ORG/GITHUB_REPO.gi
 And once you are ready you can push `git push origin master`.
 
 
+## Cloning
+
+Git/GitHub allows you to get public code in your local machine, perform different changes and
+contribute if you'd like to. You can either fork a repository (by pushing the fork button) or
+clone (you can push the green button (Clone/Download) in the repository and copy the path, then
+in a terminal you can do: `git clone https://github.com/GITHUB_ORG/GITHUB_REPO.git`. After this you can
+use, modify the code, etc. (As allowed by the code license).
+
 ## Branches
 
 Git allows you to do parallel development in the so-called branches. Once you create a branch, the modifications
