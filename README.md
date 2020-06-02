@@ -1,4 +1,4 @@
-# Fermilab CPCP Computing Bootcamp
+# Fermilab CPC Computing Bootcamp
 
 This is a computing bootcamp for summer interns at the Fermilab CPC. The goal of this bootcamp is to be an interactive introduction to scientific computing and *not* an exhaustive resource on the topics covered. The session have been designed so that they can be executed on Google Colab; however, the material is not intended to be specific to Colab. 
 
