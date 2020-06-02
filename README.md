@@ -4,8 +4,14 @@ Computing bootcamp for summer interns at the Fermilab CPC. The goal of this boot
 
 The bootcamp is roughly broken into two sessions.
 
-* Session 1: Introductory - Linux, shell, Python, notebooks, git
-* Session 2: Intermediate - data analysis, visualization, fitting, markov chain monte carlo
+* Session 1: Introductory 
+  * [Linux and the shell](LinuxShell.ipynb)
+  * [Python and notebooks](Python/Intro_to_Python.ipynb)
+  * [Git and GitHub](Git)
+* Session 2: Intermediate
+  * [Data analysis and visualization](Pandas.ipynb)
+  * [Model fitting](Model_Fitting_in_Python.ipynb)
+  * [Markov Chain Monte Carlo](mcmc.ipynb)
 
 Each session is expected to last ~2 hours.
 
