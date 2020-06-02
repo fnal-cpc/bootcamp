@@ -9,7 +9,8 @@ The bootcamp is roughly broken into two sessions.
   * [Python and notebooks](Python/Intro_to_Python.ipynb)
   * [Git and GitHub](Git)
 * Session 2: Intermediate
-  * [Data analysis and visualization](Pandas.ipynb)
+  * [Visualization](python_visualization)
+  * [Pandas](Pandas.ipynb)
   * [Model fitting](Model_Fitting_in_Python.ipynb)
   * [Markov Chain Monte Carlo](mcmc.ipynb)
 
