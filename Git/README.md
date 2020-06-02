@@ -1,6 +1,6 @@
 # Preface
 
-Some very useful general git/github tutorials can be found [here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) or [here](https://guides.github.com/activities/hello-world/). Some tutorials by a cosmologist can be found [here](https://github.com/drphilmarshall/GettingStarted).
+Some very useful general git/github tutorials can be found [here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) or [here](https://guides.github.com/activities/hello-world/). Some tutorials by the cosmologist [Phil Marshal](https://github.com/drphilmarshall) can be found [here](https://github.com/drphilmarshall/GettingStarted).
 
 # How to Git
 
